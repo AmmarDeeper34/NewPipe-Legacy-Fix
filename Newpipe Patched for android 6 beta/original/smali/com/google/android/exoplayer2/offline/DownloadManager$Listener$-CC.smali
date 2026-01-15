@@ -1,0 +1,54 @@
+.class public abstract synthetic Lcom/google/android/exoplayer2/offline/DownloadManager$Listener$-CC;
+.super Ljava/lang/Object;
+.source "DownloadManager.java"
+
+
+# direct methods
+.method public static $default$onDownloadChanged(Lcom/google/android/exoplayer2/offline/DownloadManager$Listener;Lcom/google/android/exoplayer2/offline/DownloadManager;Lcom/google/android/exoplayer2/offline/Download;Ljava/lang/Exception;)V
+    .locals 0
+
+    .line 109
+    return-void
+.end method
+
+.method public static $default$onDownloadRemoved(Lcom/google/android/exoplayer2/offline/DownloadManager$Listener;Lcom/google/android/exoplayer2/offline/DownloadManager;Lcom/google/android/exoplayer2/offline/Download;)V
+    .locals 0
+
+    .line 117
+    return-void
+.end method
+
+.method public static $default$onDownloadsPausedChanged(Lcom/google/android/exoplayer2/offline/DownloadManager$Listener;Lcom/google/android/exoplayer2/offline/DownloadManager;Z)V
+    .locals 0
+
+    .line 98
+    return-void
+.end method
+
+.method public static $default$onIdle(Lcom/google/android/exoplayer2/offline/DownloadManager$Listener;Lcom/google/android/exoplayer2/offline/DownloadManager;)V
+    .locals 0
+
+    .line 124
+    return-void
+.end method
+
+.method public static $default$onInitialized(Lcom/google/android/exoplayer2/offline/DownloadManager$Listener;Lcom/google/android/exoplayer2/offline/DownloadManager;)V
+    .locals 0
+
+    .line 88
+    return-void
+.end method
+
+.method public static $default$onRequirementsStateChanged(Lcom/google/android/exoplayer2/offline/DownloadManager$Listener;Lcom/google/android/exoplayer2/offline/DownloadManager;Lcom/google/android/exoplayer2/scheduler/Requirements;I)V
+    .locals 0
+
+    .line 137
+    return-void
+.end method
+
+.method public static $default$onWaitingForRequirementsChanged(Lcom/google/android/exoplayer2/offline/DownloadManager$Listener;Lcom/google/android/exoplayer2/offline/DownloadManager;Z)V
+    .locals 0
+
+    .line 150
+    return-void
+.end method

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d die</item>
+        <item quantity="one">%d dies</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="other">%1$s iscarrigamentos iscantzellados</item>
+        <item quantity="one">%1$s iscarrigamentu iscantzelladu</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">%s iscarrigamentos acabados</item>
+        <item quantity="one">Iscarrigamentu acabadu</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d ischertados</item>
+        <item quantity="one">%d ischertadu</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d oras</item>
+        <item quantity="one">%d ora</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s ascurtadores</item>
+        <item quantity="one">%s ascurtadore</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minutu</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%s flussos noos</item>
+        <item quantity="one">%s flussu nou</item>
+    </plurals>
+    <plurals name="replies">
+        <item quantity="other">%s rispostas</item>
+        <item quantity="one">%s risposta</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d segundu</item>
+        <item quantity="one">%d segundos</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s iscritos</item>
+        <item quantity="one">%s iscritu</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s vìdeu</item>
+        <item quantity="one">%s vìdeos</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s visualizatziones</item>
+        <item quantity="one">%s visualizatzione</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s sunt pompiende</item>
+        <item quantity="one">%s est pompiende</item>
+    </plurals>
+</resources>

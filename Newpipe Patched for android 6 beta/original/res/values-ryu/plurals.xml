@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%dんかいち</item>
+        <item quantity="one">%dんかいち</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="other">%1$sちぬダウンロードさちゅるじょさびたん</item>
+        <item quantity="one">%1$sちぬダウンロードさちゅるじょさびたん</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">%sちぬダウンロードぬかんりょうさびたん</item>
+        <item quantity="one">%sちぬダウンロードぬかんりょうさびたん</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%dさんたくちゅう</item>
+        <item quantity="one">%dさんたくちゅう</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%dじがん</item>
+        <item quantity="one">%dじがん</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%sんかいんがちょうしゅちゅう</item>
+        <item quantity="one">%sんかいんがちょうしゅちゅう</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%dふん</item>
+        <item quantity="one">%dふん</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%sきんぬみーさるストリーム</item>
+        <item quantity="one">%sきんぬみーさるストリーム</item>
+    </plurals>
+    <plurals name="replies">
+        <item quantity="other">%sぬへんしん</item>
+        <item quantity="one">%sぬへんしん</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%dびょう</item>
+        <item quantity="one">%dびょう</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">チャンネルとぅうるくしゃすう %sんかいん</item>
+        <item quantity="one">チャンネルとぅうるくしゃすう %sんかいん</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%sふんぬちゃーしが</item>
+        <item quantity="one">%sふんぬちゃーしが</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">さいせいかいすん %sかい</item>
+        <item quantity="one">さいせいかいすん %sかい</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%sんかいんがしちょうちゅう</item>
+        <item quantity="one">%sんかいんがしちょうちゅう</item>
+    </plurals>
+</resources>

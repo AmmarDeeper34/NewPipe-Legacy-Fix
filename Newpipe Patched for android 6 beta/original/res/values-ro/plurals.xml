@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d de zile</item>
+        <item quantity="one">%d zi</item>
+        <item quantity="few">%d zile</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="other">S-au șters %1$s de descărcări</item>
+        <item quantity="one">S-a șters %1$s descărcare</item>
+        <item quantity="few">S-au șters %1$s descărcări</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">%s de descărcări finalizate</item>
+        <item quantity="one">Descărcare finalizată</item>
+        <item quantity="few">%s descărcări finalizate</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Derulează rapid înainte cu %d de secunde</item>
+        <item quantity="one">Derulează rapid înainte cu %d secundă</item>
+        <item quantity="few">Derulează rapid înainte cu %d secunde</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Derulează înapoi cu %d de secunde</item>
+        <item quantity="one">Derulează înapoi cu %d secundă</item>
+        <item quantity="few">Derulează înapoi cu %d secunde</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d selectate</item>
+        <item quantity="one">%d selectat</item>
+        <item quantity="few">%d selectate</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d de ore</item>
+        <item quantity="one">%d oră</item>
+        <item quantity="few">%d ore</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s de ascultători</item>
+        <item quantity="one">%s ascultător</item>
+        <item quantity="few">%s ascultători</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d de minute</item>
+        <item quantity="one">%d minut</item>
+        <item quantity="few">%d minute</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d de notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+        <item quantity="few">%d notificări noi</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%s de fluxuri noi</item>
+        <item quantity="one">%s flux nou</item>
+        <item quantity="few">%s fluxuri noi</item>
+    </plurals>
+    <plurals name="replies">
+        <item quantity="other">%s răspunsuri</item>
+        <item quantity="one">%s răspuns</item>
+        <item quantity="few">%s răspunsuri</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d de secunde</item>
+        <item quantity="one">%d secundă</item>
+        <item quantity="few">%d secunde</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s de abonați</item>
+        <item quantity="one">%s abonat</item>
+        <item quantity="few">%s abonați</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s de videoclipuri</item>
+        <item quantity="one">%s videoclip</item>
+        <item quantity="few">%s videoclipuri</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s de vizionări</item>
+        <item quantity="one">%s vizionare</item>
+        <item quantity="few">%s vizionări</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s spectatori</item>
+        <item quantity="one">%s spectator</item>
+        <item quantity="few">%s spectatori</item>
+    </plurals>
+</resources>

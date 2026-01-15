@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d दिनहरु</item>
+        <item quantity="one">%d दिन</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">%d सेकेन्ड फास्ट फर्वार्ड गर्नुहोस्</item>
+        <item quantity="one">%d सेकेन्ड फास्ट फर्वार्ड गर्नुहोस्</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">%d सेकेन्ड रिवाइन्ड गर्नुहोस्</item>
+        <item quantity="one">%d सेकेन्ड रिवाइन्ड गर्नुहोस्</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d चयन</item>
+        <item quantity="one">%d चयन</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d घण्टा</item>
+        <item quantity="one">%d घण्टा</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s श्रोताहरु</item>
+        <item quantity="one">%s श्रोता</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d मिनेट</item>
+        <item quantity="one">%d मिनेट</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d नयाँ सूचनाहरू</item>
+        <item quantity="one">%d नयाँ सूचना</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d सेकेन्ड</item>
+        <item quantity="one">%d सेकेन्ड</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s सदस्यहरू</item>
+        <item quantity="one">%s सदस्य</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s भिडियोहरू</item>
+        <item quantity="one">%s भिडियो</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s पटक हेरिएको</item>
+        <item quantity="one">%s पटक हेरिएको</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s जना हेर्दै हुनुहुन्छ</item>
+        <item quantity="one">%s जना हेर्दै हुनुहुन्छ</item>
+    </plurals>
+</resources>

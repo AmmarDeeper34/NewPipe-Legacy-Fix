@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d ימים</item>
+        <item quantity="one">יום</item>
+        <item quantity="two">יומיים</item>
+        <item quantity="many">%d ימים</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="other">%1$s הורדות נמחקו</item>
+        <item quantity="one">הורדה אחת נמחקה</item>
+        <item quantity="two">%1$s הורדות נמחקו</item>
+        <item quantity="many">%1$s הורדות נמחקו</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">%s הורדות הסתיימו</item>
+        <item quantity="one">הורדה הסתיימה</item>
+        <item quantity="two">%s הורדות הסתיימו</item>
+        <item quantity="many">%s הורדות הסתיימו</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d נבחרו</item>
+        <item quantity="one">נבחר אחד</item>
+        <item quantity="two">%d נבחרו</item>
+        <item quantity="many">%d נבחרו</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה</item>
+        <item quantity="two">שעתיים</item>
+        <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s מאזינים</item>
+        <item quantity="one">מאזין %s</item>
+        <item quantity="two">%s מאזינים</item>
+        <item quantity="many">%s מאזינים</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה</item>
+        <item quantity="two">שתי דקות</item>
+        <item quantity="many">%d דקות</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%s תזרימים חדשים</item>
+        <item quantity="one">תזרים חדש</item>
+        <item quantity="two">%s תזרימים חדשים</item>
+        <item quantity="many">%s תזרימים חדשים</item>
+    </plurals>
+    <plurals name="replies">
+        <item quantity="other">%s תשובות</item>
+        <item quantity="one">תשובה %s</item>
+        <item quantity="two">%s תשובות</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d שניות</item>
+        <item quantity="one">שנייה אחת</item>
+        <item quantity="two">שתי שניות</item>
+        <item quantity="many">%d שניות</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s מנויים</item>
+        <item quantity="one">מנוי אחד</item>
+        <item quantity="two">שני מנויים</item>
+        <item quantity="many">%s מנויים</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s סרטונים</item>
+        <item quantity="one">סרטון %s</item>
+        <item quantity="two">%s סרטונים</item>
+        <item quantity="many">%s סרטונים</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s צפיות</item>
+        <item quantity="one">צפייה אחת</item>
+        <item quantity="two">שתי צפיות</item>
+        <item quantity="many">%s צפיות</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s צופים</item>
+        <item quantity="one">צופה %s</item>
+        <item quantity="two">%s צופים</item>
+        <item quantity="many">%s צופים</item>
+    </plurals>
+</resources>

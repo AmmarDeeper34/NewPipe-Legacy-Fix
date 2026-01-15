@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="?selectableItemBackground" android:padding="5.0dip" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/itemThumbnailView" android:layout_width="48.0dip" android:layout_height="42.0dip" android:layout_marginRight="5.0dip" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:contentDescription="TODO" android:layout_alignParentStart="true" app:tint="@color/contrastColor" />
+    <org.schabi.newpipe.views.NewPipeTextView android:textAppearance="?android:textAppearanceListItem" android:ellipsize="end" android:id="@id/itemTitleView" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/video_item_search_image_right_margin" android:lines="1" android:layout_toRightOf="@id/itemThumbnailView" android:layout_centerVertical="true" android:layout_toEndOf="@id/itemThumbnailView" />
+</RelativeLayout>

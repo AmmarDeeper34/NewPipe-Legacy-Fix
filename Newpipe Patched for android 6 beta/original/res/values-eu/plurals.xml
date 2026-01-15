@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d egun</item>
+        <item quantity="one">egun %d</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="other">%1$s deskarga ezabatuak</item>
+        <item quantity="one">Deskarga %1$s ezabatuta</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">%s Deskarga amaituta</item>
+        <item quantity="one">Deskarga amaituta</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Aurreratu %d segundo</item>
+        <item quantity="one">Aurreratu %d segundo</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Atzeratu %d segundo</item>
+        <item quantity="one">Atzeratu %d segundo</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d hautatutak</item>
+        <item quantity="one">%d hautatuta</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d ordu</item>
+        <item quantity="one">ordu %d</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s entzule</item>
+        <item quantity="one">entzule %s</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d minutu</item>
+        <item quantity="one">minutu %d</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d jakinarazpen berri</item>
+        <item quantity="one">%d jakinarazpen berri</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%s igorpen berri</item>
+        <item quantity="one">igorpen berri %s</item>
+    </plurals>
+    <plurals name="replies">
+        <item quantity="other">%s erantzun</item>
+        <item quantity="one">erantzun %s</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d segundu</item>
+        <item quantity="one">segundu %d</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s harpidedun</item>
+        <item quantity="one">Harpidedun %s</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s bideo</item>
+        <item quantity="one">Bideo %s</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s ikustaldi</item>
+        <item quantity="one">ikustaldi %s</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s ikusle</item>
+        <item quantity="one">ikusle %s</item>
+    </plurals>
+</resources>

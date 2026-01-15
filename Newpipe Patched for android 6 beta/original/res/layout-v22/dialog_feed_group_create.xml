@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <androidx.constraintlayout.widget.ConstraintLayout android:orientation="vertical" android:id="@id/options_root" android:padding="8.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="180.0dip">
+            <ImageButton android:layout_gravity="center" android:id="@id/icon_preview" android:layout_width="64.0dip" android:layout_height="64.0dip" android:scaleType="centerInside" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+            <com.google.android.material.textfield.TextInputLayout android:gravity="center_vertical" android:id="@id/group_name_input_container" android:paddingTop="6.0dip" android:paddingBottom="6.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:hint="@string/name" android:layout_marginStart="8.0dip" app:errorEnabled="true" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/icon_preview" app:layout_constraintTop_toTopOf="parent">
+                <org.schabi.newpipe.views.NewPipeEditText android:id="@id/group_name_input" android:layout_width="fill_parent" android:layout_height="fill_parent" android:maxLines="1" android:inputType="textCapSentences" android:importantForAutofill="no" />
+            </com.google.android.material.textfield.TextInputLayout>
+            <org.schabi.newpipe.views.NewPipeTextView android:textAppearance="@style/TextAppearance.AppCompat.Caption" android:id="@id/selected_subscription_count_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/group_name_input_container" />
+            <Button android:id="@id/select_channel_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="4.0dip" android:text="@string/feed_group_dialog_select_subscriptions" android:textAllCaps="true" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/selected_subscription_count_view" style="@style/Widget.AppCompat.Button.Borderless" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <androidx.recyclerview.widget.RecyclerView android:id="@id/icon_selector" android:padding="4.0dip" android:paddingTop="16.0dip" android:paddingBottom="16.0dip" android:visibility="gone" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <LinearLayout android:orientation="vertical" android:id="@id/subscriptions_selector" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <androidx.appcompat.widget.Toolbar android:theme="@style/ContrastToolbarTheme" android:gravity="center_vertical" android:id="@id/subscriptions_header_toolbar" android:layout_width="fill_parent" android:layout_height="?actionBarSize">
+                <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/subscriptions_header_info_container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <org.schabi.newpipe.views.NewPipeTextView android:textSize="16.0sp" android:textStyle="bold" android:textColor="?android:textColorPrimary" android:gravity="start|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/tab_subscriptions" />
+                    <org.schabi.newpipe.views.NewPipeTextView android:textSize="12.0sp" android:textColor="?android:textColorPrimary" android:gravity="start|center" android:id="@id/subscriptions_header_info" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                </LinearLayout>
+                <include android:id="@id/subscriptions_header_search_container" android:visibility="gone" layout="@layout/toolbar_search_layout" />
+            </androidx.appcompat.widget.Toolbar>
+            <androidx.recyclerview.widget.RecyclerView android:id="@id/subscriptions_selector_list" android:padding="2.0dip" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <org.schabi.newpipe.views.NewPipeTextView android:layout_gravity="start" android:id="@id/delete_screen_message" android:paddingLeft="?dialogPreferredPadding" android:paddingTop="16.0dip" android:paddingRight="?dialogPreferredPadding" android:paddingBottom="16.0dip" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/feed_group_dialog_delete_message" style="@style/TextAppearance.AppCompat.Subhead" />
+    </FrameLayout>
+    <View android:id="@id/separator" android:background="?separator_color" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <RelativeLayout android:gravity="center_vertical" android:paddingLeft="12.0dip" android:paddingTop="4.0dip" android:paddingRight="12.0dip" android:paddingBottom="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageButton android:id="@id/delete_button" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_delete" android:scaleType="centerInside" android:minWidth="0.0dip" android:layout_centerVertical="true" android:layout_alignParentStart="true" style="?buttonBarButtonStyle" />
+        <Button android:id="@id/cancel_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/cancel" android:layout_toStartOf="@id/confirm_button" style="?buttonBarButtonStyle" />
+        <Button android:id="@id/confirm_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/create" android:layout_alignParentEnd="true" style="?buttonBarButtonStyle" />
+    </RelativeLayout>
+</LinearLayout>

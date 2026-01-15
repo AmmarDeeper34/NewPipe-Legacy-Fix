@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.schabi.newpipe.views.FocusAwareDrawerLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <org.schabi.newpipe.views.FocusAwareCoordinator android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <androidx.fragment.app.FragmentContainerView android:id="@id/fragment_holder" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="?actionBarSize" />
+        <include android:id="@id/toolbar_layout" layout="@layout/toolbar_layout" />
+        <androidx.fragment.app.FragmentContainerView android:layout_gravity="center_horizontal" android:id="@id/fragment_player_holder" android:layout_width="fill_parent" android:layout_height="fill_parent" app:behavior_hideable="true" app:behavior_peekHeight="0.0dip" app:layout_behavior="org.schabi.newpipe.player.gesture.CustomBottomSheetBehavior" />
+    </org.schabi.newpipe.views.FocusAwareCoordinator>
+    <include android:id="@id/drawer_layout" layout="@layout/drawer_layout" />
+</org.schabi.newpipe.views.FocusAwareDrawerLayout>

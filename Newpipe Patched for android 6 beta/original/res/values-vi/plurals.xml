@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d ngày</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="other">Đã xóa %1$s lượt tải xuống</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">%s lượt tải xuống đã hoàn tất</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Tua nhanh %d giây</item>
+        <item quantity="one">Tua nhanh %d giây</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Tua lại %d giây</item>
+        <item quantity="one">Tua lại %d giây</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">Đã chọn %d</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d giờ</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s người nghe</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d phút</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d thông báo mới</item>
+        <item quantity="one">%d thông báo mới</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%s luồng truyền mới</item>
+    </plurals>
+    <plurals name="replies">
+        <item quantity="other">%s hồi đáp</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d giây</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s người đăng ký</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s lượt xem</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s người xem</item>
+    </plurals>
+</resources>

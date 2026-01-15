@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioButton android:textColor="?textColorAlertDialogListItem" android:ellipsize="marquee" android:gravity="center_vertical" android:background="?checked_selector" android:layout_width="fill_parent" android:layout_height="wrap_content" android:button="@null" android:minHeight="?listPreferredItemHeightSmall" android:maxLines="2" android:drawablePadding="24.0dip" android:paddingStart="?listPreferredItemPaddingLeft" android:paddingEnd="?listPreferredItemPaddingRight"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

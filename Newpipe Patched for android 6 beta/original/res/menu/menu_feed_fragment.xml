@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_visibility_on" android:id="@id/menu_item_feed_toggle_played_items" android:orderInCategory="2" android:title="@string/feed_show_hide_streams" app:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_help" android:id="@id/menu_item_feed_help" android:orderInCategory="4" android:title="@string/fast_mode" app:showAsAction="ifRoom" />
+</menu>

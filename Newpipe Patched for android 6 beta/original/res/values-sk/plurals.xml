@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d dní</item>
+        <item quantity="one">%d deň</item>
+        <item quantity="few">%d dni</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="other">%1$s sťahovaní zmazaných</item>
+        <item quantity="one">%1$s sťahovanie zmazané</item>
+        <item quantity="few">%1$s sťahovania zmazané</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">%s ukončených sťahovaní</item>
+        <item quantity="one">Sťahovanie ukončené</item>
+        <item quantity="few">%s ukončené sťahovania</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Pretočiť dopredu o %d sekúnd</item>
+        <item quantity="one">Pretočiť dopredu o %d sekundu</item>
+        <item quantity="few">Pretočiť dopredu o %d sekundy</item>
+        <item quantity="many">Pretočiť dopredu o %d sekundy</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Pretočiť späť o %d sekúnd</item>
+        <item quantity="one">Pretočiť späť o %d sekundu</item>
+        <item quantity="few">Pretočiť späť o %d sekundy</item>
+        <item quantity="many">Pretočiť späť o %d sekundy</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d vybraných</item>
+        <item quantity="one">%d vybraný</item>
+        <item quantity="few">%d vybrané</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d hodín</item>
+        <item quantity="one">%d hodina</item>
+        <item quantity="few">%d hodiny</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s poslucháčov</item>
+        <item quantity="one">%s poslucháč</item>
+        <item quantity="few">%s poslucháči</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d minút</item>
+        <item quantity="one">%d minuta</item>
+        <item quantity="few">%d minuty</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových upozornení</item>
+        <item quantity="one">%d nové upozornenie</item>
+        <item quantity="few">%d nové upozornenia</item>
+        <item quantity="many">%d new notifications</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%s nových streamov</item>
+        <item quantity="one">%s nový stream</item>
+        <item quantity="few">%s nové streamy</item>
+    </plurals>
+    <plurals name="replies">
+        <item quantity="other">%s odpovedí</item>
+        <item quantity="one">%s odpoveď</item>
+        <item quantity="few">%s odpovede</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d sekúnd</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="few">%d sekundy</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s odberateľov</item>
+        <item quantity="one">%s odberateľ</item>
+        <item quantity="few">%s odberatelia</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s videí</item>
+        <item quantity="one">%s video</item>
+        <item quantity="few">%s videá</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s pozretí</item>
+        <item quantity="one">%s pozriete</item>
+        <item quantity="few">%s pozretia</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s sleduje</item>
+        <item quantity="one">%s sleduje</item>
+        <item quantity="few">%s sledujú</item>
+    </plurals>
+</resources>

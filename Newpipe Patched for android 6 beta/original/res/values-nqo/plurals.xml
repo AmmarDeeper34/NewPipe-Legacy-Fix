@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">ߕߟߋ߬ %d</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="other">ߟߊ߬ߖߌ߰ߟߌ߬ %1$s ߓߘߊ߫ ߖߏ߬ߛߌ߬</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">ߟߊ߬ߖߌ߰ߟߌ߬ %s ߓߘߊ߫ ߓߊ߲߫</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d ߛߎߥߊ߲ߘߌߣߍ߲߫</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">ߕߎ߬ߡߊ߬ߙߋ߲߬ %d</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">ߟߊ߬ߡߍ߲߬ߓߊ߰ %s</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">ߡߌ߬ߛߍ߲߬ %d</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">ߥߦߏ߬ ߞߎߘߊ߫ %s</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">ߝߌ߬ߟߊ߲߬ %d</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">ߡߊ߬ߝߘߎ߬ߓߊ߰ %s</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">ߦߋߡߍ߲ߕߊ߫ %s</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">ߦߋߞߏ߫ %s</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">ߘߐߜߍߓߊ߯ %s</item>
+    </plurals>
+</resources>

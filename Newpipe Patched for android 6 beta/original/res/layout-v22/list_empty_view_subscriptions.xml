@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="128.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <org.schabi.newpipe.views.NewPipeTextView android:textAppearance="?android:textAppearanceLarge" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="¯\\_(ツ)_/¯" />
+    <org.schabi.newpipe.views.NewPipeTextView android:gravity="center" android:layout_gravity="center" android:paddingLeft="16.0dip" android:paddingRight="16.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:text="@string/import_subscriptions_hint" android:paddingHorizontal="16.0dip" />
+</LinearLayout>

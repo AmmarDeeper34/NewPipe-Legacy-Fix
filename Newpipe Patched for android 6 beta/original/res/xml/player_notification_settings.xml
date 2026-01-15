@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/settings_category_player_notification_title"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <SwitchPreferenceCompat android:title="@string/notification_scale_to_square_image_title" android:key="@string/scale_to_square_image_in_notifications_key" android:summary="@string/notification_scale_to_square_image_summary" android:defaultValue="false" app:iconSpaceReserved="false" app:singleLineTitle="false" />
+    <SwitchPreferenceCompat android:title="@string/notification_colorize_title" android:key="@string/notification_colorize_key" android:summary="@string/notification_colorize_summary" android:defaultValue="true" app:iconSpaceReserved="false" app:singleLineTitle="false" />
+    <SwitchPreferenceCompat android:title="@string/show_thumbnail_title" android:key="@string/show_thumbnail_key" android:summary="@string/show_thumbnail_summary" android:defaultValue="true" app:iconSpaceReserved="false" app:singleLineTitle="false" />
+    <PreferenceCategory android:layout="@layout/settings_category_header_layout" app:iconSpaceReserved="false">
+        <org.schabi.newpipe.settings.custom.NotificationActionsPreference />
+    </PreferenceCategory>
+</PreferenceScreen>

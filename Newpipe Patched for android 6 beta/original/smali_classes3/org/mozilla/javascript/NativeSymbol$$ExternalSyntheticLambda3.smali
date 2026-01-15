@@ -1,0 +1,30 @@
+.class public final synthetic Lorg/mozilla/javascript/NativeSymbol$$ExternalSyntheticLambda3;
+.super Ljava/lang/Object;
+.source "R8$$SyntheticClass"
+
+# interfaces
+.implements Lorg/mozilla/javascript/Callable;
+
+
+# direct methods
+.method public synthetic constructor <init>()V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final call(Lorg/mozilla/javascript/Context;Lorg/mozilla/javascript/Scriptable;Lorg/mozilla/javascript/Scriptable;[Ljava/lang/Object;)Ljava/lang/Object;
+    .locals 0
+
+    .line 0
+    invoke-static {p1, p2, p3, p4}, Lorg/mozilla/javascript/NativeSymbol;->$r8$lambda$a5sCWZQh4F93X9P7uBAAX_LLPEU(Lorg/mozilla/javascript/Context;Lorg/mozilla/javascript/Scriptable;Lorg/mozilla/javascript/Scriptable;[Ljava/lang/Object;)Ljava/lang/String;
+
+    move-result-object p1
+
+    return-object p1
+.end method

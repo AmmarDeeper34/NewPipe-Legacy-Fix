@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.recyclerview.widget.RecyclerView android:id="@id/feed_groups_list" android:padding="6.0dip" android:scrollbars="vertical" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    <View android:background="?separator_color" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <Button android:layout_gravity="end" android:id="@id/confirm_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/ok" style="?buttonBarButtonStyle" />
+</LinearLayout>

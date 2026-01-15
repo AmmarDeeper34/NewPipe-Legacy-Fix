@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Premik naprej za %d sekund</item>
+        <item quantity="one">Premik naprej za %d sekundo</item>
+        <item quantity="two">Premik naprej za %d sekundi</item>
+        <item quantity="few">Premik naprej za %d sekunde</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Premik nazaj za %d sekund</item>
+        <item quantity="one">Premik nazaj za %d sekundo</item>
+        <item quantity="two">Premik nazaj za %d sekundi</item>
+        <item quantity="few">Premik nazaj za %d sekunde</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s poslušalcev</item>
+        <item quantity="one">%s poslušalec</item>
+        <item quantity="two">%s poslušalca</item>
+        <item quantity="few">%s poslušalcev</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
+        <item quantity="two">%d novi obvestili</item>
+        <item quantity="few">%d nova obvestila</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s naročnikov</item>
+        <item quantity="one">%s naročnik</item>
+        <item quantity="two">%s naročnika</item>
+        <item quantity="few">%s naročniki</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s posnetkov</item>
+        <item quantity="one">%s video posnetek</item>
+        <item quantity="two">%s video posnetka</item>
+        <item quantity="few">%s video posnetkov</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s ogledov</item>
+        <item quantity="one">%s ogled</item>
+        <item quantity="two">%s ogleda</item>
+        <item quantity="few">%s ogledi</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s gledalcev</item>
+        <item quantity="one">%s gledalec</item>
+        <item quantity="two">%s gledalca</item>
+        <item quantity="few">%s gledalcev</item>
+    </plurals>
+</resources>

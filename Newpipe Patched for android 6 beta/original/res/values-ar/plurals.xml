@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d يومًا</item>
+        <item quantity="zero">%d يوم</item>
+        <item quantity="one">%d يوم</item>
+        <item quantity="two">%d أيام</item>
+        <item quantity="few">%d أيام</item>
+        <item quantity="many">%d يومًا</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="other">اكتمل %1$s تنزيل</item>
+        <item quantity="zero">اكتمل %1$s تنزيل</item>
+        <item quantity="one">اكتمل %1$s تنزيل</item>
+        <item quantity="two">اكتمل %1$s تنزيل</item>
+        <item quantity="few">اكتملت %1$s تنزيلات</item>
+        <item quantity="many">اكتمل %1$s تنزيل</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">اكتملت التنزيلات%s</item>
+        <item quantity="zero">اكتمل التنزيل</item>
+        <item quantity="one">اكتمل التنزيل</item>
+        <item quantity="two">اكتمل التنزيل</item>
+        <item quantity="few">اكتمل تنزيل%s</item>
+        <item quantity="many">اكتملت التنزيلات%s</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="zero">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="one">تقديم سريع للفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">تقديم سريع للفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">تقديم سريع للفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">تقديم سريع للفيديو بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="zero">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="one">ترجيع الفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">ترجيع الفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">ترجيع الفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">ترجيع الفيديو بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d المحدد</item>
+        <item quantity="zero">%d تحديد</item>
+        <item quantity="one">%d المحدد</item>
+        <item quantity="two">%d المحدد</item>
+        <item quantity="few">%d المحدد</item>
+        <item quantity="many">%d المحدد</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d ساعة</item>
+        <item quantity="zero">%d ساعة</item>
+        <item quantity="one">%d ساعة</item>
+        <item quantity="two">%d ساعة</item>
+        <item quantity="few">%d ساعات</item>
+        <item quantity="many">%d ساعة</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s مستمعين</item>
+        <item quantity="zero">%s الاستماع</item>
+        <item quantity="one">%s الاستماع</item>
+        <item quantity="two">%s مستمعين</item>
+        <item quantity="few">%s مستمعين</item>
+        <item quantity="many">%s مستمعين</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d دقيقة</item>
+        <item quantity="zero">%d دقيقة</item>
+        <item quantity="one">%d دقيقة</item>
+        <item quantity="two">%d دقيقة</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d إشعار جديد</item>
+        <item quantity="zero">%d إشعار جديد</item>
+        <item quantity="one">إشعار جديد واحد (%d)</item>
+        <item quantity="two">إشعاران جديدان (%d)</item>
+        <item quantity="few">%d إشعارات جديدة</item>
+        <item quantity="many">%d إشعارًا جديدًا</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%s دفق جديد</item>
+        <item quantity="zero">%s دفق جديد</item>
+        <item quantity="one">%s دفق جديد</item>
+        <item quantity="two">%s دفق جديد</item>
+        <item quantity="few">%s دفوق جديدة</item>
+        <item quantity="many">%s دفق جديد</item>
+    </plurals>
+    <plurals name="replies">
+        <item quantity="other">ردود %s</item>
+        <item quantity="zero">رد %s</item>
+        <item quantity="one">رد %s</item>
+        <item quantity="two">ردان%s</item>
+        <item quantity="few">ردود%s</item>
+        <item quantity="many">ردود %s</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d ثانية</item>
+        <item quantity="zero">%d ثانية</item>
+        <item quantity="one">%d ثانية</item>
+        <item quantity="two">%d ثانية</item>
+        <item quantity="few">%d ثواني</item>
+        <item quantity="many">%d ثانية</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s مشترك</item>
+        <item quantity="zero">%s مشارك</item>
+        <item quantity="one">%s مشارك</item>
+        <item quantity="two">%s مشاركين</item>
+        <item quantity="few">%s مشترك</item>
+        <item quantity="many">%s مشترك</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s أشرطة فيديو</item>
+        <item quantity="zero">%s فيديو</item>
+        <item quantity="one">%s أشرطة فيديو</item>
+        <item quantity="two">%s أشرطة فيديو</item>
+        <item quantity="few">%s أشرطة فيديو</item>
+        <item quantity="many">%s أشرطة فيديو</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s مشاهدة</item>
+        <item quantity="zero">%s مشاهد</item>
+        <item quantity="one">%s مشاهد</item>
+        <item quantity="two">%s مشاهدة</item>
+        <item quantity="few">%s مشاهدة</item>
+        <item quantity="many">%s مشاهدة</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s مشاهدات</item>
+        <item quantity="zero">%s مشاهدة</item>
+        <item quantity="one">%s مشاهدة</item>
+        <item quantity="two">%s مشاهدة</item>
+        <item quantity="few">%s مشاهدات</item>
+        <item quantity="many">%s مشاهدات</item>
+    </plurals>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d நாட்கள்</item>
+        <item quantity="one">%d நாள்</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="other">%1$s பதிவிறக்கங்கள் அழிக்கபட்டன</item>
+        <item quantity="one">%1$s பதிவிறக்கம் அழிக்கபட்டது</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">%s பதிவிறக்கங்கள் முடிந்தன</item>
+        <item quantity="one">பதிவிறக்கம் முடிந்தது</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">%d வினாடிகள் ஃபாஸ்ட் ஃபார்வர்ட் ஆகும்</item>
+        <item quantity="one">%d வினாடி ஃபாஸ்ட் ஃபார்வர்ட் ஆகும்</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">%d வினாடிகள் ரீவைண்ட் ஆகும்</item>
+        <item quantity="one">%d வினாடி ரீவைண்ட் ஆகும்</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d தேர்ந்தெடுக்கப்பட்டன</item>
+        <item quantity="one">%d தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d மணிநேரம்</item>
+        <item quantity="one">%d மணி</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s கேட்போர்</item>
+        <item quantity="one">%s கேட்பவர்</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d நிமிடங்கள்</item>
+        <item quantity="one">%d மணித்துளி</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d புதிய அறிவிப்புகள்</item>
+        <item quantity="one">%d புதிய அறிவிப்பு</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%s புதிய நீரோடைகள்</item>
+        <item quantity="one">%s புதிய ச்ட்ரீம்</item>
+    </plurals>
+    <plurals name="replies">
+        <item quantity="other">%s பதில்கள்</item>
+        <item quantity="one">%s பதில்</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d விநாடிகள்</item>
+        <item quantity="one">%d இரண்டாவது</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s பின் தொடர்பவர்கள்</item>
+        <item quantity="one">%s பின் தொடர்பவர்</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s காணொளிகள்</item>
+        <item quantity="one">%s காணொளி</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s பார்வைகள்</item>
+        <item quantity="one">%s பார்வை</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s பார்க்கிறார்கள்</item>
+        <item quantity="one">%s பார்க்கிறார்</item>
+    </plurals>
+</resources>

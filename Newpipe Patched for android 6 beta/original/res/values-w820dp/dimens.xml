@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">64.0dip</dimen>
+    <dimen name="video_item_grid_thumbnail_image_height">117.0dip</dimen>
+    <dimen name="video_item_grid_thumbnail_image_width">208.0dip</dimen>
+</resources>

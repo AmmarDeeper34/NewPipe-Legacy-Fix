@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d tagoj</item>
+        <item quantity="one">%d tago</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d selektitaj</item>
+        <item quantity="one">%d selektita</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d horoj</item>
+        <item quantity="one">%d horo</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s aŭskultantoj</item>
+        <item quantity="one">%s aŭskultanto</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d minutoj</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%s novaj fluoj</item>
+        <item quantity="one">%s nova fluo</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d sekundoj</item>
+        <item quantity="one">%d sekundo</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s abonantoj</item>
+        <item quantity="one">%s abonanto</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s filmetoj</item>
+        <item quantity="one">%s filmeto</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s spektoj</item>
+        <item quantity="one">%s spekto</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s spektantoj</item>
+        <item quantity="one">%s spektanto</item>
+    </plurals>
+</resources>

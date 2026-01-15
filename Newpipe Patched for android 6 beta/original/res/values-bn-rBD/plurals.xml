@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d দিন</item>
+        <item quantity="one">%d দিন</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">%s ডাউনলোড হয়েছে</item>
+        <item quantity="one">ডাউনলোড সম্পন্ন</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d সমূহ নির্বাচিত</item>
+        <item quantity="one">%d নির্বাচিত</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d ঘন্টা</item>
+        <item quantity="one">%d ঘন্টা</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s জন শ্রোতা</item>
+        <item quantity="one">%s জন শ্রোতা</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d মিনিট</item>
+        <item quantity="one">%d মিনিট</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%s টি নতুন স্ট্রিম</item>
+        <item quantity="one">%s টি নতুন স্ট্রিম</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s জন গ্রাহক</item>
+        <item quantity="one">%s জন গ্রাহক</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s ভিডিও</item>
+        <item quantity="one">%s ভিডিও</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s বার দেখেছে</item>
+        <item quantity="one">%s বার দেখেছে</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s জন দেখছে</item>
+        <item quantity="one">%s জন দেখছে</item>
+    </plurals>
+</resources>

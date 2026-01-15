@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:background="?colorPrimary" android:nextFocusDown="@id/drawer_header_action_button" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:layout_width="fill_parent" android:layout_height="0.0dip" android:src="@drawable/background_header" android:scaleType="centerCrop" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <LinearLayout android:gravity="bottom" android:orientation="vertical" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/drawer_header_padding_top" android:minHeight="@dimen/drawer_header_content_min_height" app:layout_constraintTop_toTopOf="parent">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="72.0dip" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip">
+            <ImageView android:layout_width="@dimen/drawer_header_newpipe_icon_size" android:layout_height="@dimen/drawer_header_newpipe_icon_size" android:src="@drawable/splash_foreground" android:layout_marginEnd="@dimen/drawer_header_newpipe_icon_title_space" />
+            <org.schabi.newpipe.views.NewPipeTextView android:textStyle="bold" android:textColor="@color/drawer_header_font_color" android:ellipsize="end" android:gravity="start|center" android:id="@id/drawer_header_newpipe_title" android:layout_width="@dimen/drawer_header_newpipe_title_default_width" android:layout_height="fill_parent" android:text="@string/app_name" android:maxLines="1" android:layout_marginEnd="@dimen/drawer_header_newpipe_icon_title_space" app:autoSizeMaxTextSize="@dimen/drawer_header_newpipe_title_max_text_size" app:autoSizeMinTextSize="@dimen/drawer_header_newpipe_title_min_text_size" app:autoSizeTextType="uniform" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:background="@drawable/drawer_header_bottom_background" android:paddingLeft="6.0dip" android:paddingRight="6.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="12.0dip">
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="32.0dip" android:layout_weight="1.0">
+                <ImageView android:id="@id/drawer_header_service_icon" android:layout_width="@dimen/drawer_header_service_icon_size" android:layout_height="wrap_content" android:layout_marginLeft="6.0dip" android:layout_marginRight="6.0dip" android:scaleType="fitCenter" app:tint="@color/drawer_header_font_color" />
+                <org.schabi.newpipe.views.NewPipeTextView android:textSize="@dimen/drawer_header_service_title_text_size" android:textColor="@color/drawer_header_font_color" android:ellipsize="end" android:id="@id/drawer_header_service_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" />
+            </LinearLayout>
+            <ImageView android:id="@id/drawer_arrow" android:layout_width="24.0dip" android:layout_height="24.0dip" android:src="@drawable/ic_arrow_drop_down" android:layout_marginStart="4.0dip" app:tint="@color/drawer_header_font_color" />
+        </LinearLayout>
+    </LinearLayout>
+    <Button android:id="@id/drawer_header_action_button" android:background="?selectableItemBackground" android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

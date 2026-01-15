@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d i yettwafernen</item>
+        <item quantity="one">%d i yettwafren</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d n tesdatin</item>
+        <item quantity="one">%d n tesdat</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s n tmeẓriyin</item>
+        <item quantity="one">%s n tmeẓriwt</item>
+    </plurals>
+</resources>

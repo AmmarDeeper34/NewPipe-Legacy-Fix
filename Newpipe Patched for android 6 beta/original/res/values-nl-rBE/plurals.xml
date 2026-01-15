@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d dagen</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d geselecteerd</item>
+        <item quantity="one">%d geselecteerd</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d uren</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s luisteraars</item>
+        <item quantity="one">%s luisteraar</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d minuten</item>
+        <item quantity="one">%d minuut</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%s nieuwe streams</item>
+        <item quantity="one">%s nieuwe stream</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d seconden</item>
+        <item quantity="one">%d seconde</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s abonnees</item>
+        <item quantity="one">%s abonnee</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s video’s</item>
+        <item quantity="one">%s video</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s weergaven</item>
+        <item quantity="one">%s weergave</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s kijkers</item>
+        <item quantity="one">%s kijker</item>
+    </plurals>
+</resources>

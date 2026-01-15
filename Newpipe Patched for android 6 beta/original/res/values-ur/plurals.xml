@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">%d سیکنڈز تیزی سے فارورڈ کریں</item>
+        <item quantity="one">%d سیکنڈ تیزی سے فارورڈ کریں</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">%d سیکنڈز ریوائنڈ کریں</item>
+        <item quantity="one">%d سیکنڈ ریوائنڈ کریں</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s سننے والے</item>
+        <item quantity="one">%s سننے والا</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d نئی اطلاعات</item>
+        <item quantity="one">%d نئی اطلاع</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%s نئی اسٹریمز</item>
+        <item quantity="one">%s نئی اسٹریم</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s صارفین</item>
+        <item quantity="one">%s صارف</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s ویڈیوز</item>
+        <item quantity="one">%s ویڈیو</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s مناظر</item>
+        <item quantity="one">%s منظر</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s دیکھ رہے</item>
+        <item quantity="one">%s دیکھ رہا</item>
+    </plurals>
+</resources>

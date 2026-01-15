@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d maalmood</item>
+        <item quantity="one">%d maalin</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d ayaa la calaamadiyay</item>
+        <item quantity="one">%d ayaa la calaamadiyay</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d saac</item>
+        <item quantity="one">%d saac</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s dhagaystayaal</item>
+        <item quantity="one">%s dhagayste</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d daqiiqo</item>
+        <item quantity="one">%d daqiiqo</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d ilbiriqsi</item>
+        <item quantity="one">%d ilbiriqsi</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s ayaa rukumatay</item>
+        <item quantity="one">%s ayaa rukuntay</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s muuqaal</item>
+        <item quantity="one">%s muuqaal</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s ayaa lafuray</item>
+        <item quantity="one">%s ayaa lafuray</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s ayaa daawanaysa</item>
+        <item quantity="one">%s ayaa daawanaya</item>
+    </plurals>
+</resources>

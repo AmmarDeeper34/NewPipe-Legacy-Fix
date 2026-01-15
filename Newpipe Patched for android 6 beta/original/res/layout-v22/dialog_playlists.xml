@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/newPlaylist" android:background="?selectableItemBackground" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@id/newPlaylistIcon" android:layout_width="48.0dip" android:layout_height="28.0dip" android:layout_marginLeft="12.0dip" android:layout_marginRight="12.0dip" android:src="@drawable/ic_playlist_add" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        <org.schabi.newpipe.views.NewPipeTextView android:textAppearance="?android:textAppearanceLarge" android:textSize="15.0sp" android:textStyle="bold" android:gravity="left|center" android:layout_width="fill_parent" android:layout_height="50.0dip" android:text="@string/create_playlist" android:layout_toRightOf="@id/newPlaylistIcon" />
+    </RelativeLayout>
+    <org.schabi.newpipe.views.NewPipeTextView android:textAppearance="?android:textAppearanceMedium" android:textSize="13.0sp" android:gravity="center" android:id="@id/playlist_duplicate" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/video_item_search_padding" android:layout_marginRight="@dimen/video_item_search_padding" android:layout_marginBottom="@dimen/video_item_search_padding" android:text="@string/duplicate_in_playlist" android:layout_below="@id/newPlaylist" android:layout_marginHorizontal="@dimen/video_item_search_padding" />
+    <View android:id="@id/separator" android:background="?separator_color" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="@dimen/video_item_search_padding" android:layout_marginRight="@dimen/video_item_search_padding" android:layout_below="@id/playlist_duplicate" />
+    <androidx.recyclerview.widget.RecyclerView android:id="@id/playlist_list" android:visibility="gone" android:scrollbars="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/separator" />
+</RelativeLayout>

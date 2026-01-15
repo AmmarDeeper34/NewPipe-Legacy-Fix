@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">%d సెకన్లు వేగంగా ఫార్వర్డ్ చేయండి</item>
+        <item quantity="one">%d సెకండ్ వేగంగా ఫార్వర్డ్ చేయండి</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">%d సెకన్లు రివైండ్ చేయండి</item>
+        <item quantity="one">%d సెకండ్ రివైండ్ చేయండి</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s శ్రోతలు</item>
+        <item quantity="one">%s శ్రోత</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d కొత్త నోటిఫికేషన్‌లు</item>
+        <item quantity="one">%d కొత్త నోటిఫికేషన్</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%s కొత్త స్ట్రీమ్స్</item>
+        <item quantity="one">%s కొత్త స్ట్రీమ్</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s సభ్యులు</item>
+        <item quantity="one">%s సభ్యుడు</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s వీడియోలు</item>
+        <item quantity="one">%s వీడియో</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s వీక్షణలు</item>
+        <item quantity="one">%s వీక్షణ</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s చూస్తున్నారు</item>
+        <item quantity="one">%s చూస్తున్నాడు</item>
+    </plurals>
+</resources>

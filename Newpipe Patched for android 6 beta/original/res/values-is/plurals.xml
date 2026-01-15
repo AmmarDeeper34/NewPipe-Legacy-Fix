@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d dagar</item>
+        <item quantity="one">%d dagur</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="other">%1$s sóttum skrám eytt</item>
+        <item quantity="one">%1$s sótt skrá eytt</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">%s skrár sóttar</item>
+        <item quantity="one">Skrá sótt</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Spóla áfram um %d sekúndur</item>
+        <item quantity="one">Spóla áfram um %d sekúndu</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Spóla til baka um %d sekúndur</item>
+        <item quantity="one">Spóla til baka um %d sekúndu</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d valdar</item>
+        <item quantity="one">%d valin</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d klst</item>
+        <item quantity="one">%d klst</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s að hlusta</item>
+        <item quantity="one">%s að hlusta</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d mínútur</item>
+        <item quantity="one">%d mínúta</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nýjar tilkynningar</item>
+        <item quantity="one">%d ný tilkynning</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%s ný streymi</item>
+        <item quantity="one">%s nýtt streymi</item>
+    </plurals>
+    <plurals name="replies">
+        <item quantity="other">%s svör</item>
+        <item quantity="one">%s svar</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d sekúndur</item>
+        <item quantity="one">%d sekúnda</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s áskrifendur</item>
+        <item quantity="one">%s áskrifandi</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s myndskeið</item>
+        <item quantity="one">%s myndskeið</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s áhorf</item>
+        <item quantity="one">%s áhorf</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s að horfa</item>
+        <item quantity="one">%s að horfa</item>
+    </plurals>
+</resources>

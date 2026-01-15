@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/toolbar_layout" layout="@layout/toolbar_layout" />
+    <ScrollView android:id="@id/scrollView" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="?actionBarSize">
+        <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/activity_horizontal_margin" android:paddingTop="@dimen/activity_vertical_margin" android:paddingRight="@dimen/activity_horizontal_margin" android:paddingBottom="@dimen/activity_vertical_margin" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <org.schabi.newpipe.views.NewPipeTextView android:textAppearance="?android:textAppearanceLarge" android:textStyle="bold" android:gravity="center" android:id="@id/errorSorryView" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/sorry_string" />
+            <org.schabi.newpipe.views.NewPipeTextView android:textAppearance="?android:textAppearanceMedium" android:paddingTop="@dimen/activity_vertical_margin" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/what_happened_headline" />
+            <org.schabi.newpipe.views.NewPipeTextView android:textColor="?colorAccent" android:id="@id/errorMessageView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/info_labels" />
+            <org.schabi.newpipe.views.NewPipeTextView android:textAppearance="?android:textAppearanceMedium" android:paddingTop="@dimen/activity_vertical_margin" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/what_device_headline" />
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <org.schabi.newpipe.views.NewPipeTextView android:textColor="?colorAccent" android:id="@id/errorInfoLabelsView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/info_labels" />
+                <HorizontalScrollView android:paddingLeft="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <org.schabi.newpipe.views.NewPipeTextView android:id="@id/errorInfosView" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                </HorizontalScrollView>
+            </LinearLayout>
+            <org.schabi.newpipe.views.NewPipeTextView android:textAppearance="?android:textAppearanceMedium" android:paddingTop="@dimen/activity_vertical_margin" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/error_details_headline" />
+            <HorizontalScrollView android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <org.schabi.newpipe.views.NewPipeTextView android:typeface="monospace" android:id="@id/errorView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textIsSelectable="true" />
+            </HorizontalScrollView>
+            <org.schabi.newpipe.views.NewPipeTextView android:textAppearance="?android:textAppearanceMedium" android:paddingTop="@dimen/activity_vertical_margin" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/your_comment" />
+            <org.schabi.newpipe.views.NewPipeEditText android:id="@id/errorCommentBox" android:layout_width="fill_parent" android:layout_height="wrap_content" android:inputType="none" />
+            <Button android:id="@id/errorReportEmailButton" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/error_report_button_text" />
+            <org.schabi.newpipe.views.NewPipeTextView android:textStyle="bold" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="5.0dip" android:text="@string/error_report_open_github_notice" />
+            <Button android:id="@id/errorReportCopyButton" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/copy_for_github" />
+            <Button android:id="@id/errorReportGitHubButton" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/error_report_open_issue_button_text" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

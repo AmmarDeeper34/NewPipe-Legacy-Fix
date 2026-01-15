@@ -1,0 +1,47 @@
+.class public abstract synthetic Lcom/google/android/exoplayer2/source/MediaSourceEventListener$-CC;
+.super Ljava/lang/Object;
+.source "MediaSourceEventListener.java"
+
+
+# direct methods
+.method public static $default$onDownstreamFormatChanged(Lcom/google/android/exoplayer2/source/MediaSourceEventListener;ILcom/google/android/exoplayer2/source/MediaSource$MediaPeriodId;Lcom/google/android/exoplayer2/source/MediaLoadData;)V
+    .locals 0
+
+    .line 150
+    return-void
+.end method
+
+.method public static $default$onLoadCanceled(Lcom/google/android/exoplayer2/source/MediaSourceEventListener;ILcom/google/android/exoplayer2/source/MediaSource$MediaPeriodId;Lcom/google/android/exoplayer2/source/LoadEventInfo;Lcom/google/android/exoplayer2/source/MediaLoadData;)V
+    .locals 0
+
+    .line 95
+    return-void
+.end method
+
+.method public static $default$onLoadCompleted(Lcom/google/android/exoplayer2/source/MediaSourceEventListener;ILcom/google/android/exoplayer2/source/MediaSource$MediaPeriodId;Lcom/google/android/exoplayer2/source/LoadEventInfo;Lcom/google/android/exoplayer2/source/MediaLoadData;)V
+    .locals 0
+
+    .line 77
+    return-void
+.end method
+
+.method public static $default$onLoadError(Lcom/google/android/exoplayer2/source/MediaSourceEventListener;ILcom/google/android/exoplayer2/source/MediaSource$MediaPeriodId;Lcom/google/android/exoplayer2/source/LoadEventInfo;Lcom/google/android/exoplayer2/source/MediaLoadData;Ljava/io/IOException;Z)V
+    .locals 0
+
+    .line 128
+    return-void
+.end method
+
+.method public static $default$onLoadStarted(Lcom/google/android/exoplayer2/source/MediaSourceEventListener;ILcom/google/android/exoplayer2/source/MediaSource$MediaPeriodId;Lcom/google/android/exoplayer2/source/LoadEventInfo;Lcom/google/android/exoplayer2/source/MediaLoadData;)V
+    .locals 0
+
+    .line 59
+    return-void
+.end method
+
+.method public static $default$onUpstreamDiscarded(Lcom/google/android/exoplayer2/source/MediaSourceEventListener;ILcom/google/android/exoplayer2/source/MediaSource$MediaPeriodId;Lcom/google/android/exoplayer2/source/MediaLoadData;)V
+    .locals 0
+
+    .line 139
+    return-void
+.end method

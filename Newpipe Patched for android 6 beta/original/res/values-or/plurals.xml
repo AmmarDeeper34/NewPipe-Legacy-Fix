@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">ମୋଟ %d ଦିନ</item>
+        <item quantity="one">%d ଦିନ</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="other">%1$s ଡାଉନଲୋଡ୍ ଗୁଡ଼ିକ ଡିଲିଟ୍ ହୋଇଛି</item>
+        <item quantity="one">%1$s ଡାଉନଲୋଡ୍ ଡିଲିଟ୍ ହୋଇଛି</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">%s ଟି ଡାଉନଲୋଡ୍ ସମାପ୍ତ ହୋଇଛି</item>
+        <item quantity="one">ଡାଉନଲୋଡ୍ ସମାପ୍ତ ହୋଇଛି</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">ମୋଟ %d ଟି ଚୟନ ହୋଇଛି</item>
+        <item quantity="one">%d ଚୟନ ହୋଇଛି</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">ମୋଟ %d ଘଣ୍ଟା</item>
+        <item quantity="one">%d ଘଣ୍ଟା</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">ମୋଟ %s ଜଣ ଶ୍ରୋତା</item>
+        <item quantity="one">%s ଜଣ ଶ୍ରୋତା</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">ମୋଟ %d ମିନିଟ୍</item>
+        <item quantity="one">%d ମିନିଟ୍</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">ମୋଟ %s ନୂଆ ଷ୍ଟ୍ରୀମ</item>
+        <item quantity="one">%s ନୂଆ ଷ୍ଟ୍ରୀମ</item>
+    </plurals>
+    <plurals name="replies">
+        <item quantity="other">%s ଉତ୍ତରଗୁଡ଼ିକ</item>
+        <item quantity="one">%s ଉତ୍ତର</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">ମୋଟ %d ସେକେଣ୍ଡ</item>
+        <item quantity="one">%d ସେକେଣ୍ଡ</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">ମୋଟ %s ଗ୍ରାହକ</item>
+        <item quantity="one">%s ଗ୍ରାହକ</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">ମୋଟ %s ଭିଡିଓ</item>
+        <item quantity="one">%s ଭିଡିଓ</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">ମୋଟ %s ଦର୍ଶନ</item>
+        <item quantity="one">%s ଦର୍ଶନ</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">ମୋଟ %s ଜଣ ଦେଖୁଛନ୍ତି</item>
+        <item quantity="one">%s ଜଣ ଦେଖୁଛନ୍ତି</item>
+    </plurals>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:padding="13.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <org.schabi.newpipe.views.NewPipeTextView android:textAppearance="?android:textAppearanceLarge" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="10.0dip" android:text="@string/select_a_feed_group" android:layout_marginStart="10.0dip" android:layout_marginEnd="5.0dip" />
+    <androidx.recyclerview.widget.RecyclerView android:id="@id/items_list" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <org.schabi.newpipe.views.NewPipeTextView android:textAppearance="?android:textAppearanceListItem" android:id="@id/empty_state_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:text="@string/no_feed_group_created_yet" />
+    <ProgressBar android:id="@id/progressBar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="5.0dip" style="?android:progressBarStyle" />
+</LinearLayout>

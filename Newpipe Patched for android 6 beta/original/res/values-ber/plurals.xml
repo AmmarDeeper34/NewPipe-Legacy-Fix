@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d ⵓⵙⵙⴰⵏ</item>
+        <item quantity="one">%d ⵡⴰⵙⵙ</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d ⵜⵙⵔⵉⴳⵉⵏ</item>
+        <item quantity="one">%d ⵜⵙⵔⵉⴳⵜ</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d ⵜⵙⴷⵉⴷⵉⵏ</item>
+        <item quantity="one">%d ⵜⵙⴷⵉⴷⵉⵜ</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s ⵉⴼⵉⴷⵢⵓⵜⵏ</item>
+        <item quantity="one">%s ⵓⴼⵉⴷⵢⵓ</item>
+    </plurals>
+</resources>

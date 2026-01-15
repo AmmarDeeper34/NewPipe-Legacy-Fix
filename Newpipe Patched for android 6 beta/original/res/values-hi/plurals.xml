@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d दिन</item>
+        <item quantity="one">%d दिन</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="other">%1$s डाउनलोड्स हटाए गए</item>
+        <item quantity="one">%1$s डाउनलोड हटाए गए</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">%s डाउनलोड संपूर्ण</item>
+        <item quantity="one">डाउनलोड संपूर्ण</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">वीडियो को %d सेकंड आगे बढ़ाएं</item>
+        <item quantity="one">वीडियो को %d सेकंड आगे बढ़ाएं</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">वीडियो को %d सेकंड पीछे ले जाएं</item>
+        <item quantity="one">वीडियो को %d सेकंड पीछे ले जाएं</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d चयनित हुए</item>
+        <item quantity="one">%d चयनित</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d घंटे</item>
+        <item quantity="one">%d घंटा</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s श्रोता</item>
+        <item quantity="one">%s श्रोता</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d मिनट्स</item>
+        <item quantity="one">%d मिनट</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d नई सूचनाएं</item>
+        <item quantity="one">%d नई सूचनाएं</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%s नई स्ट्रीमें</item>
+        <item quantity="one">%s नई स्ट्रीम</item>
+    </plurals>
+    <plurals name="replies">
+        <item quantity="other">%s जवाब</item>
+        <item quantity="one">%s जवाब</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d सेकंड्स</item>
+        <item quantity="one">%d सेकेंड</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s सब्सक्राइबर्स</item>
+        <item quantity="one">%s सब्सक्राइबर</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s वीडियोज़</item>
+        <item quantity="one">%s वीडियो</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s विऊज़</item>
+        <item quantity="one">%s विऊ</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s दर्शक हैं</item>
+        <item quantity="one">%s दर्शक है</item>
+    </plurals>
+</resources>

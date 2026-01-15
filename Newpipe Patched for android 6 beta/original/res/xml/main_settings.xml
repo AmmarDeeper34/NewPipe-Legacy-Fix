@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/settings" android:key="general_preferences"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceScreen android:icon="@drawable/ic_headset" android:title="@string/settings_category_video_audio_title" android:fragment="org.schabi.newpipe.settings.VideoAudioSettingsFragment" app:iconSpaceReserved="false" />
+    <PreferenceScreen android:icon="@drawable/ic_file_download" android:title="@string/settings_category_downloads_title" android:fragment="org.schabi.newpipe.settings.DownloadSettingsFragment" app:iconSpaceReserved="false" />
+    <PreferenceScreen android:icon="@drawable/ic_palette" android:title="@string/settings_category_appearance_title" android:fragment="org.schabi.newpipe.settings.AppearanceSettingsFragment" app:iconSpaceReserved="false" />
+    <PreferenceScreen android:icon="@drawable/ic_history" android:title="@string/settings_category_history_title" android:fragment="org.schabi.newpipe.settings.HistorySettingsFragment" app:iconSpaceReserved="false" />
+    <PreferenceScreen android:icon="@drawable/ic_language" android:title="@string/content" android:fragment="org.schabi.newpipe.settings.ContentSettingsFragment" app:iconSpaceReserved="false" />
+    <PreferenceScreen android:icon="@drawable/ic_notifications" android:title="@string/notifications" android:fragment="org.schabi.newpipe.settings.NotificationsSettingsFragment" app:iconSpaceReserved="false" />
+    <PreferenceScreen android:icon="@drawable/ic_cloud_download" android:title="@string/settings_category_updates_title" android:key="update_pref_screen_key" android:fragment="org.schabi.newpipe.settings.UpdateSettingsFragment" app:iconSpaceReserved="false" />
+    <PreferenceScreen android:icon="@drawable/ic_settings_backup_restore" android:title="@string/settings_category_backup_restore_title" android:fragment="org.schabi.newpipe.settings.BackupRestoreSettingsFragment" app:iconSpaceReserved="false" />
+    <PreferenceScreen android:icon="@drawable/ic_bug_report" android:title="@string/settings_category_debug_title" android:key="@string/debug_pref_screen_key" android:fragment="org.schabi.newpipe.settings.DebugSettingsFragment" app:iconSpaceReserved="false" />
+</PreferenceScreen>

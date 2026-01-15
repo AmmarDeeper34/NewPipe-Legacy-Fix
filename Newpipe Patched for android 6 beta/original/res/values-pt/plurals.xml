@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d dias</item>
+        <item quantity="one">%d dia</item>
+        <item quantity="many">%d dias</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="other">%1$s descargas eliminadas</item>
+        <item quantity="one">%1$s descarga eliminada</item>
+        <item quantity="many">%1$s descargas eliminadas</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">%s descargas concluídas</item>
+        <item quantity="one">%s descarga concluída</item>
+        <item quantity="many">%s descargas concluídas</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avançar %d segundos</item>
+        <item quantity="one">Avançar %d segundo</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Voltar %d segundos</item>
+        <item quantity="one">Voltar %d segundo</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d selecionados</item>
+        <item quantity="one">%d selecionado</item>
+        <item quantity="many">%d selecionados</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
+        <item quantity="many">%d horas</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s ouvintes</item>
+        <item quantity="one">%s ouvinte</item>
+        <item quantity="many">%s ouvintes</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+        <item quantity="many">%d minutos</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%s novos vídeos</item>
+        <item quantity="one">%s novo vídeo</item>
+        <item quantity="many">%s novos vídeos</item>
+    </plurals>
+    <plurals name="replies">
+        <item quantity="other">%s respostas</item>
+        <item quantity="one">%s resposta</item>
+        <item quantity="many">%s respostas</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">%d segundo</item>
+        <item quantity="many">%d segundos</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s subscritores</item>
+        <item quantity="one">%s subscritor</item>
+        <item quantity="many">%s subscritores</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s vídeos</item>
+        <item quantity="one">%s vídeo</item>
+        <item quantity="many">%s vídeos</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s visualizações</item>
+        <item quantity="one">%s visualização</item>
+        <item quantity="many">%s visualizações</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s a ver</item>
+        <item quantity="one">%s a ver</item>
+        <item quantity="many">%s a ver</item>
+    </plurals>
+</resources>

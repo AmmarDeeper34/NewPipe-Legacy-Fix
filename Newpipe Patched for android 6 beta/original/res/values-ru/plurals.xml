@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дня</item>
+        <item quantity="many">%d дней</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="other">Удалено %1$s загрузок</item>
+        <item quantity="one">Удалена %1$s загрузка</item>
+        <item quantity="few">Удалено %1$s загрузки</item>
+        <item quantity="many">Удалено %1$s загрузок</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">%s загрузок завершено</item>
+        <item quantity="one">%s загрузка завершено</item>
+        <item quantity="few">%s загрузки завершено</item>
+        <item quantity="many">%s загрузок завершено</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Перемотать на %d секунды вперед</item>
+        <item quantity="one">Перемотать на %d секунду вперед</item>
+        <item quantity="few">Перемотать на %d секунды вперед</item>
+        <item quantity="many">Перемотать на %d секунд вперед</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Перемотать на %d секунды назад</item>
+        <item quantity="one">Перемотать на %d секунду назад</item>
+        <item quantity="few">Перемотать на %d секунды назад</item>
+        <item quantity="many">Перемотать на %d секунд назад</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d выбрано</item>
+        <item quantity="one">%d выбрана</item>
+        <item quantity="few">%d выбрано</item>
+        <item quantity="many">%d выбрано</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">%d час</item>
+        <item quantity="few">%d часа</item>
+        <item quantity="many">%d часов</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="one">%s слушатель</item>
+        <item quantity="few">%s слушателя</item>
+        <item quantity="many">%s слушателей</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">%d минута</item>
+        <item quantity="few">%d минуты</item>
+        <item quantity="many">%d минут</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нового уведомления</item>
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+        <item quantity="many">%d новых уведомлений</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="one">%s новое видео</item>
+        <item quantity="few">%s новых видео</item>
+        <item quantity="many">%s новых видео</item>
+    </plurals>
+    <plurals name="replies">
+        <item quantity="other">%s ответов</item>
+        <item quantity="one">%s ответ</item>
+        <item quantity="few">%s ответа</item>
+        <item quantity="many">%s ответов</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one">%d секунда</item>
+        <item quantity="few">%d секунды</item>
+        <item quantity="many">%d секунд</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="one">%s подписчик</item>
+        <item quantity="few">%s подписчика</item>
+        <item quantity="many">%s подписчиков</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s видео</item>
+        <item quantity="one">%s видео</item>
+        <item quantity="few">%s видео</item>
+        <item quantity="many">%s видео</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="one">%s просмотр</item>
+        <item quantity="few">%s просмотра</item>
+        <item quantity="many">%s просмотров</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="one">%s зритель</item>
+        <item quantity="few">%s зрителя</item>
+        <item quantity="many">%s зрителей</item>
+    </plurals>
+</resources>

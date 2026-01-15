@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d дни</item>
+        <item quantity="one">%d ден</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="other">Изтрити бяха %1$s изтегляния</item>
+        <item quantity="one">Изтрито %1$s изтегляне</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">%s изтегляния са готови</item>
+        <item quantity="one">Изтеглянето завърши</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Превъртане с(ъс) %d секунди напред</item>
+        <item quantity="one">Превъртане с %d секунда напред</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Превъртане с(ъс) %d секунди назад</item>
+        <item quantity="one">Превъртане с %d секунда назад</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d избрани</item>
+        <item quantity="one">%d избран</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s слушатели</item>
+        <item quantity="one">%s слушател</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">%d минута</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нови известия</item>
+        <item quantity="one">%d ново известие</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%s нови потоци</item>
+        <item quantity="one">%s нов поток</item>
+    </plurals>
+    <plurals name="replies">
+        <item quantity="other">%s отговора</item>
+        <item quantity="one">%s отговор</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">%d секунда</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s абонати</item>
+        <item quantity="one">%s абонат</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s видеоклипове</item>
+        <item quantity="one">%s видеоклип</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s гледания</item>
+        <item quantity="one">%s гледане</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s зрители</item>
+        <item quantity="one">%s зрител</item>
+    </plurals>
+</resources>

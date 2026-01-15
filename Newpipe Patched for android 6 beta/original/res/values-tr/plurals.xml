@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">%d gün</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="other">%1$s indirme silindi</item>
+        <item quantity="one">%1$s indirme silindi</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">%s indirme tamamlandı</item>
+        <item quantity="one">İndirme tamamlandı</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">%d saniye ileri sar</item>
+        <item quantity="one">%d saniye ileri sar</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">%d saniye geri sar</item>
+        <item quantity="one">%d saniye geri sar</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d öge seçildi</item>
+        <item quantity="one">%d öge seçildi</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s dinleyici</item>
+        <item quantity="one">%s dinleyici</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">%d dakika</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%s yeni yayın</item>
+        <item quantity="one">%s yeni yayın</item>
+    </plurals>
+    <plurals name="replies">
+        <item quantity="other">%s yanıt</item>
+        <item quantity="one">%s yanıt</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d saniye</item>
+        <item quantity="one">%d saniye</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s abone</item>
+        <item quantity="one">%s abone</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s video</item>
+        <item quantity="one">%s video</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s görüntülenme</item>
+        <item quantity="one">%s görüntülenme</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s izleyici</item>
+        <item quantity="one">%s izleyici</item>
+    </plurals>
+</resources>

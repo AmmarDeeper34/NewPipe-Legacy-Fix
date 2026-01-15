@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/settings_category_debug_title" android:key="general_preferences"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <SwitchPreferenceCompat android:title="@string/leakcanary" android:key="@string/allow_heap_dumping_key" android:summary="@string/enable_leak_canary_summary" android:defaultValue="false" app:iconSpaceReserved="false" app:singleLineTitle="false" />
+    <Preference android:title="@string/show_memory_leaks" android:key="@string/show_memory_leaks_key" app:iconSpaceReserved="false" app:singleLineTitle="false" />
+    <SwitchPreferenceCompat android:title="@string/enable_disposed_exceptions_title" android:key="@string/allow_disposed_exceptions_key" android:summary="@string/enable_disposed_exceptions_summary" android:defaultValue="false" app:iconSpaceReserved="false" app:singleLineTitle="false" />
+    <SwitchPreferenceCompat android:title="@string/show_original_time_ago_title" android:key="@string/show_original_time_ago_key" android:summary="@string/show_original_time_ago_summary" android:defaultValue="false" app:iconSpaceReserved="false" app:singleLineTitle="false" />
+    <SwitchPreferenceCompat android:title="@string/show_image_indicators_title" android:key="@string/show_image_indicators_key" android:summary="@string/show_image_indicators_summary" android:defaultValue="false" app:iconSpaceReserved="false" />
+    <SwitchPreferenceCompat android:title="@string/show_crash_the_player_title" android:key="@string/show_crash_the_player_key" android:summary="@string/show_crash_the_player_summary" android:defaultValue="false" app:iconSpaceReserved="false" />
+    <Preference android:title="@string/check_new_streams" android:key="@string/check_new_streams_key" app:iconSpaceReserved="false" app:singleLineTitle="false" />
+    <Preference android:title="@string/crash_the_app" android:key="@string/crash_the_app_key" app:iconSpaceReserved="false" app:singleLineTitle="false" />
+    <Preference android:title="@string/show_error_snackbar" android:key="@string/show_error_snackbar_key" app:iconSpaceReserved="false" app:singleLineTitle="false" />
+    <Preference android:title="@string/create_error_notification" android:key="@string/create_error_notification_key" app:iconSpaceReserved="false" app:singleLineTitle="false" />
+</PreferenceScreen>

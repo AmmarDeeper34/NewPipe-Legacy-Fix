@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/settings_category_video_audio_title"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ListPreference android:entries="@array/resolution_list_description" android:title="@string/default_resolution_title" android:key="@string/default_resolution_key" android:defaultValue="720p" android:entryValues="@array/resolution_list_values" app:iconSpaceReserved="false" app:singleLineTitle="false" app:useSimpleSummaryProvider="true" />
+    
+    <ListPreference android:entries="@array/video_format_description_list" android:title="@string/default_video_format_title" android:key="@string/default_video_format_key" android:defaultValue="MPEG-4" android:entryValues="@array/video_format_values_list" app:iconSpaceReserved="false" app:singleLineTitle="false" app:useSimpleSummaryProvider="true" />
+    
+    <SwitchPreferenceCompat android:title="@string/show_higher_resolutions_title" android:key="@string/show_higher_resolutions_key" android:summary="@string/show_higher_resolutions_summary" android:defaultValue="false" app:iconSpaceReserved="false" app:singleLineTitle="false" />
+    
+    <ListPreference android:entries="@array/audio_format_description_list" android:title="@string/default_audio_format_title" android:key="@string/default_audio_format_key" android:defaultValue="M4A" android:entryValues="@array/audio_format_values_list" app:iconSpaceReserved="false" app:singleLineTitle="false" app:useSimpleSummaryProvider="true" />
+    
+    <PreferenceCategory android:layout="@layout/settings_category_header_layout" android:title="@string/settings_category_player_title" app:iconSpaceReserved="false" app:singleLineTitle="false">
+        <SwitchPreferenceCompat android:title="@string/use_external_video_player_title" android:key="@string/use_external_video_player_key" android:summary="@string/use_external_video_player_summary" android:defaultValue="false" app:iconSpaceReserved="false" app:singleLineTitle="false" />
+    </PreferenceCategory>
+</PreferenceScreen>

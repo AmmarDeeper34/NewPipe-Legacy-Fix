@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d päivää</item>
+        <item quantity="one">%d päivä</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="other">Poistettu %1$s latausta</item>
+        <item quantity="one">Poistettu %1$s lataus</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">%s latausta valmiina</item>
+        <item quantity="one">Lataus valmis</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Siirry eteenpäin %d sekuntia</item>
+        <item quantity="one">Siirry eteenpäin %d sekunti</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Siirry taaksepäin %d sekuntia</item>
+        <item quantity="one">Siirry taaksepäin %d sekunti</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d valittua</item>
+        <item quantity="one">%d valittu</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">%d tunti</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s kuuntelijaa</item>
+        <item quantity="one">%s kuuntelija</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d minuuttia</item>
+        <item quantity="one">%d minuutti</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d uutta ilmoitusta</item>
+        <item quantity="one">%d uusi ilmoitus</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%s uudet streamit</item>
+        <item quantity="one">%s uusi streami</item>
+    </plurals>
+    <plurals name="replies">
+        <item quantity="other">%s vastausta</item>
+        <item quantity="one">%s vastaus</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d sekuntia</item>
+        <item quantity="one">%d sekunti</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s tilaajaa</item>
+        <item quantity="one">%s tilaaja</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s videoita</item>
+        <item quantity="one">%s video</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s katselukertaa</item>
+        <item quantity="one">%s katselukerta</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s katselijaa</item>
+        <item quantity="one">%s katselija</item>
+    </plurals>
+</resources>

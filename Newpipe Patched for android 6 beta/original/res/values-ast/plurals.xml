@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d díes</item>
+        <item quantity="one">%d día</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d na esbilla</item>
+        <item quantity="one">%d na esbilla</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d hores</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s oyentes</item>
+        <item quantity="one">%s oyente</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minutu</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">%d segundu</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s soscriptores</item>
+        <item quantity="one">%s soscriptor</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s vídeos</item>
+        <item quantity="one">%s videu</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s vistes</item>
+        <item quantity="one">%s vista</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s espectadores</item>
+        <item quantity="one">%s espectador</item>
+    </plurals>
+</resources>

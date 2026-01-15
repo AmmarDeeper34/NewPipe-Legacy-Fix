@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d days</item>
+        <item quantity="one">%d day</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="other">Deleted %1$s downloads</item>
+        <item quantity="one">Deleted %1$s download</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">%s downloads finished</item>
+        <item quantity="one">Download finished</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Fast forward %d seconds</item>
+        <item quantity="one">Fast forward %d second</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Rewind %d seconds</item>
+        <item quantity="one">Rewind %d second</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d selected</item>
+        <item quantity="one">%d selected</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d hours</item>
+        <item quantity="one">%d hour</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s listeners</item>
+        <item quantity="one">%s listener</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">%d minute</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%s new streams</item>
+        <item quantity="one">%s new stream</item>
+    </plurals>
+    <plurals name="replies">
+        <item quantity="other">%s replies</item>
+        <item quantity="one">%s reply</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">%d second</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s subscribers</item>
+        <item quantity="one">%s subscriber</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s videos</item>
+        <item quantity="one">%s video</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s views</item>
+        <item quantity="one">%s view</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s watching</item>
+        <item quantity="one">%s watching</item>
+    </plurals>
+</resources>

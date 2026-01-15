@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/sortButton" android:background="?selectableItemBackground" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@id/sortButtonIcon" android:layout_width="48.0dip" android:layout_height="28.0dip" android:layout_marginLeft="12.0dip" android:layout_marginRight="12.0dip" android:src="@drawable/ic_filter_list" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        <org.schabi.newpipe.views.NewPipeTextView android:textAppearance="?android:textAppearanceLarge" android:textSize="15.0sp" android:textStyle="bold" android:gravity="left|center" android:id="@id/sortButtonText" android:layout_width="fill_parent" android:layout_height="50.0dip" android:text="@string/title_most_played" android:layout_toRightOf="@id/sortButtonIcon" />
+    </RelativeLayout>
+    <include android:id="@id/playlist_control" layout="@layout/playlist_control" />
+</LinearLayout>

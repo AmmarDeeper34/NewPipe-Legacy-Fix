@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d ڕۆژەکان</item>
+        <item quantity="one">%d ڕۆژ</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d هەڵبژێردراو</item>
+        <item quantity="one">%d دیاریکراو</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d کات ژمێر</item>
+        <item quantity="one">%d کاتژمێر</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s گوێی لێدەگرن</item>
+        <item quantity="one">%s گوێی لێدەگرێ</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d خولەك</item>
+        <item quantity="one">%d خولەک</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d چرکە</item>
+        <item quantity="one">%d چرکە</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s بەشداربوون</item>
+        <item quantity="one">%s بەشداربوو</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s ڤیدیۆکان</item>
+        <item quantity="one">%s ڤیدیۆ</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s بینراو</item>
+        <item quantity="one">%s بینرااو</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s تەماشا دەکەن</item>
+        <item quantity="one">%s تەماشا دەکات</item>
+    </plurals>
+</resources>

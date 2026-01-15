@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d დღეების</item>
+        <item quantity="one">%d დღე</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="other">წაიშალა %1$s ჩამოტვირთვები</item>
+        <item quantity="one">წაიშალა %1$s ჩამოტვირთვა</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">%s ჩამოტვირთვები დასრულდა</item>
+        <item quantity="one">ჩამოტვირთვა დასრულდა%s</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">წინ გადახვევა %d წამით</item>
+        <item quantity="one">წინ გადახვევა %d წამით</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">უკან გადახვევა %d წამით</item>
+        <item quantity="one">უკან გადახვევა %d წამით</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">არჩეულია %d</item>
+        <item quantity="one">არჩეული %d</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d საათები</item>
+        <item quantity="one">%d საათი</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s მსმენელები</item>
+        <item quantity="one">%s მსმენელი</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d წუთები</item>
+        <item quantity="one">%d წუთი</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d ახალი შეტყობინება</item>
+        <item quantity="one">%d ახალი შეტყობინება</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">%s ახალი ნაკადები</item>
+        <item quantity="one">%s ახალი ნაკადი</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d წამები</item>
+        <item quantity="one">%d წამი</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s გამომწერები</item>
+        <item quantity="one">%s გამომწერი</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s ვიდეოები</item>
+        <item quantity="one">%s ვიდეო</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s ნახვები</item>
+        <item quantity="one">%s ნახვა</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s უყურებენ</item>
+        <item quantity="one">%s უყურებს</item>
+    </plurals>
+</resources>

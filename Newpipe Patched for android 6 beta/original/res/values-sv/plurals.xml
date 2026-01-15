@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%d dagar</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="other">Tog bort %1$s nedladdningar</item>
+        <item quantity="one">Tog bort %1$s nedladdning</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="other">%s nedladdningar slutförda</item>
+        <item quantity="one">Nedladdning slutförd</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Spola framåt %d sekunder</item>
+        <item quantity="one">Spola framåt %d sekund</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Spola tillbaka %d sekunder</item>
+        <item quantity="one">Spola tillbaka %d sekund</item>
+    </plurals>
+    <plurals name="feed_group_dialog_selection_count">
+        <item quantity="other">%d valda</item>
+        <item quantity="one">%d vald</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d timmar</item>
+        <item quantity="one">%d timme</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="other">%s lyssnare</item>
+        <item quantity="one">%s lyssnare</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d minuter</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nya aviseringar</item>
+        <item quantity="one">%d ny avisering</item>
+    </plurals>
+    <plurals name="new_streams">
+        <item quantity="other">strömningar%s Nya strömningar</item>
+        <item quantity="one">%s Ny strömning</item>
+    </plurals>
+    <plurals name="replies">
+        <item quantity="other">%s svar</item>
+        <item quantity="one">%s svar</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d sekunder</item>
+        <item quantity="one">%d sekund</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="other">%s prenumeranter</item>
+        <item quantity="one">%s prenumerant</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="other">%s videor</item>
+        <item quantity="one">%s video</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%s visningar</item>
+        <item quantity="one">%s visning</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="other">%s tittar</item>
+        <item quantity="one">%s tittar</item>
+    </plurals>
+</resources>
