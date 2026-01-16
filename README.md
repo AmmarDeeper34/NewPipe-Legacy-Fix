@@ -56,12 +56,7 @@ Modified core components ensure smooth playback on hardware with limited resourc
    * You see a "Video Not Available" error.
    * The phone gets unusually hot.
 
-## 🏗 How to Build from Source (1)
-Due to memory constraints in cloud environments (like GitHub Codespaces), use the following **"Low Memory"** command:
-```bash
-./gradlew assembleDebug --no-daemon -Dorg.gradle.parallel=false -Dorg.gradle.jvmargs="-Xmx512m" -x runCheckstyle
-
-## 🛠 How to Contribute / Build from Source (2)
+## 🛠 How to Contribute / Build from Source (1)
 If you are a developer and want to improve this patch or update it for future NewPipe versions, follow these steps:
 
 1. **Decompile:** Use `apktool d NewPipe_vX.X.X.apk`.
@@ -71,6 +66,12 @@ If you are a developer and want to improve this patch or update it for future Ne
 4. **Sign:** Use `uber-apk-signer` to align and sign the resulting binary.
 
 **Current Goal:** I am looking for someone to help automate these XML injections using a Python script or GitHub Actions to make updates faster!
+
+## 🏗 How to Build from Source (2)
+Due to memory constraints in cloud environments (like GitHub Codespaces), use the following **"Low Memory"** command:
+```bash
+./gradlew assembleDebug --no-daemon -Dorg.gradle.parallel=false -Dorg.gradle.jvmargs="-Xmx512m" -x runCheckstyle
+```
 
 ## 🤝 Credits & Acknowledgments
 **Lead Developer:** Ammar (AmmarDeeper34])
